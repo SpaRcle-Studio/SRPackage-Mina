@@ -1,0 +1,4 @@
+/Resources/Cache
+/Resources/Samples/*.dll
+/Resources/Samples/*.pdb
+/Resources/CMakeLists.txt

@@ -1,0 +1,6 @@
+sra format
+use tabs: true
+0-r:Root
+	1-o:rig
+		2-v:id
+			3-s:Mina/Mina.rig
