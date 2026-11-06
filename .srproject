@@ -1,5 +1,9 @@
 sra format
 use tabs: true
 0-r:Root
-	1-v:projectName
-		2-s:MinaPackage
+	1-o:asset
+		2-v:type
+			3-s:ProjectSettings
+		2-o:ptr
+			3-v:projectName
+				4-s:MinaPackage

@@ -1,6 +1,8 @@
 sra format
 use tabs: true
 0-r:Root
+	1-v:entityId
+		2-i:3504553076650390721
 	1-o:logic
 		2-v:type
 			3-s:ScenePrefabLogic
@@ -3779,6 +3781,21 @@ use tabs: true
 																				20-i:3896553607365037680
 																		18-v:meshPath
 																			19-s:Mina/Mesh/SK_MINA_PERFORMANCE_01_with_bones_in_skirt.FBX
+																		18-o:bounds
+																			19-o:min
+																				20-v:x
+																					21-f:-0.592928
+																				20-v:y
+																					21-f:-0.395741
+																				20-v:z
+																					21-f:-1.86283
+																			19-o:max
+																				20-v:x
+																					21-f:0.594236
+																				20-v:y
+																					21-f:0.444009
+																				20-v:z
+																					21-f:0.0277838
 															15-k:i
 																16-o:d
 																	17-v:type
@@ -4315,6 +4332,21 @@ use tabs: true
 																								24-i:3896553607365037680
 																						22-v:meshPath
 																							23-s:Mina/Mesh/SK_MINA_PERF_SKIRT_with_bones.FBX
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.36514
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:-0.0114973
 																			19-k:i
 																				20-o:d
 																					21-v:type
@@ -4447,6 +4479,21 @@ use tabs: true
 																								24-i:3896553607365037680
 																						22-v:meshPath
 																							23-s:Mina/Mesh/SK_MINA_PERF_SHIRT.FBX
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.5819
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:0.0111303
 																			19-k:i
 																				20-o:d
 																					21-v:type
@@ -4579,6 +4626,21 @@ use tabs: true
 																								24-i:3896553607365037680
 																						22-v:meshPath
 																							23-s:Mina/Mesh/SK_MINA_PERF_JACKET.FBX
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.86283
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:0.0277838
 																			19-k:i
 																				20-o:d
 																					21-v:type
@@ -4618,6 +4680,21 @@ use tabs: true
 																								24-i:3896553607365037680
 																						22-v:meshPath
 																							23-s:Mina/Mesh/SK_MINA_CASUAL_SHOES.FBX
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.19193
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:0.0277838
 																			19-k:i
 																				20-o:d
 																					21-v:type
@@ -4709,6 +4786,21 @@ use tabs: true
 																								24-i:3896553607365037680
 																						22-v:meshPath
 																							23-s:Mina/Mesh/SK_MINA_LINGERIE_PANTIES.FBX
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.26196
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:0.0277838
 																		18-v:name
 																			19-s:Cloth
 																		18-o:transform
@@ -4819,6 +4911,21 @@ use tabs: true
 																							23-s:Mina/Mesh/SK_MINA_CASUAL_01_with_bones_in_skirt.FBX
 																						22-v:meshId
 																							23-i:4
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.86283
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:0.0277838
 																			19-k:i
 																				20-o:d
 																					21-v:type
@@ -4860,6 +4967,21 @@ use tabs: true
 																							23-s:Mina/Mesh/SK_MINA_CASUAL_01_with_bones_in_skirt.FBX
 																						22-v:meshId
 																							23-i:6
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.86283
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:0.0277838
 																			19-k:i
 																				20-o:d
 																					21-v:type
@@ -4954,6 +5076,21 @@ use tabs: true
 																							23-s:Mina/Mesh/SK_MINA_CASUAL_01_with_bones_in_skirt.FBX
 																						22-v:meshId
 																							23-i:8
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.86283
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:0.0277838
 																		18-v:name
 																			19-s:Head
 																		18-a:children
@@ -5078,6 +5215,21 @@ use tabs: true
 																												28-i:3896553607365037680
 																										26-v:meshPath
 																											27-s:Mina/Mesh/SK_MINA_HAIR.FBX
+																										26-o:bounds
+																											27-o:min
+																												28-v:x
+																													29-f:-0.592928
+																												28-v:y
+																													29-f:-0.395741
+																												28-v:z
+																													29-f:-1.86283
+																											27-o:max
+																												28-v:x
+																													29-f:0.594236
+																												28-v:y
+																													29-f:0.444009
+																												28-v:z
+																													29-f:0.0277838
 																							23-k:i
 																								24-o:d
 																									25-v:type
@@ -5148,6 +5300,21 @@ use tabs: true
 																											27-s:Mina/Mesh/SK_MINA_CASUAL_01_with_bones_in_skirt.FBX
 																										26-v:meshId
 																											27-i:7
+																										26-o:bounds
+																											27-o:min
+																												28-v:x
+																													29-f:-0.592928
+																												28-v:y
+																													29-f:-0.395741
+																												28-v:z
+																													29-f:-1.86283
+																											27-o:max
+																												28-v:x
+																													29-f:0.594236
+																												28-v:y
+																													29-f:0.444009
+																												28-v:z
+																													29-f:0.0277838
 																						22-v:name
 																							23-s:Hair
 																						22-v:layer
@@ -5266,6 +5433,21 @@ use tabs: true
 																							23-s:Mina/Mesh/SK_MINA_CASUAL_01_with_bones_in_skirt.FBX
 																						22-v:meshId
 																							23-i:4
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.86283
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:0.0277838
 																			19-k:i
 																				20-o:d
 																					21-v:type
@@ -5307,6 +5489,21 @@ use tabs: true
 																							23-s:Mina/Mesh/SK_MINA_CASUAL_01_with_bones_in_skirt.FBX
 																						22-v:meshId
 																							23-i:6
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.86283
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:0.0277838
 																			19-k:i
 																				20-o:d
 																					21-v:type
@@ -5401,6 +5598,21 @@ use tabs: true
 																							23-s:Mina/Mesh/SK_MINA_CASUAL_01_with_bones_in_skirt.FBX
 																						22-v:meshId
 																							23-i:8
+																						22-o:bounds
+																							23-o:min
+																								24-v:x
+																									25-f:-0.592928
+																								24-v:y
+																									25-f:-0.395741
+																								24-v:z
+																									25-f:-1.86283
+																							23-o:max
+																								24-v:x
+																									25-f:0.594236
+																								24-v:y
+																									25-f:0.444009
+																								24-v:z
+																									25-f:0.0277838
 																		18-v:name
 																			19-s:HeadShadow
 																		18-a:children
@@ -5525,6 +5737,21 @@ use tabs: true
 																												28-i:3896553607365037680
 																										26-v:meshPath
 																											27-s:Mina/Mesh/SK_MINA_HAIR.FBX
+																										26-o:bounds
+																											27-o:min
+																												28-v:x
+																													29-f:-0.592928
+																												28-v:y
+																													29-f:-0.395741
+																												28-v:z
+																													29-f:-1.86283
+																											27-o:max
+																												28-v:x
+																													29-f:0.594236
+																												28-v:y
+																													29-f:0.444009
+																												28-v:z
+																													29-f:0.0277838
 																							23-k:i
 																								24-o:d
 																									25-v:type
@@ -5595,6 +5822,21 @@ use tabs: true
 																											27-s:Mina/Mesh/SK_MINA_CASUAL_01_with_bones_in_skirt.FBX
 																										26-v:meshId
 																											27-i:7
+																										26-o:bounds
+																											27-o:min
+																												28-v:x
+																													29-f:-0.592928
+																												28-v:y
+																													29-f:-0.395741
+																												28-v:z
+																													29-f:-1.86283
+																											27-o:max
+																												28-v:x
+																													29-f:0.594236
+																												28-v:y
+																													29-f:0.444009
+																												28-v:z
+																													29-f:0.0277838
 																						22-v:name
 																							23-s:Hair
 																						22-v:layer
@@ -5637,6 +5879,3 @@ use tabs: true
 			3-v:type
 				4-s:Transform3D
 			3-o:ptr
-				4-o:translation
-					5-v:z
-						6-f:4.86159
